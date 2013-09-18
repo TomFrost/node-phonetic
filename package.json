@@ -1,0 +1,26 @@
+{
+  "name": "phonetic",
+  "version": "0.1.0",
+  "description": "Generates unique, pronounceable names, random and seedable",
+  "main": "lib/phonetic.js",
+  "homepage": "https://github.com/TomFrost/node-phonetic",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:TomFrost/node-phonetic.git"
+  },
+  "keywords": [
+    "pronounceable",
+    "pronounce",
+    "name",
+    "unique",
+    "word"
+  ],
+  "author": "Tom Frost <tom@frosteddesign.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TomFrost/node-phonetic/issues"
+  }
+}
