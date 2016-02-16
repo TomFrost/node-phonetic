@@ -1,6 +1,6 @@
 {
   "name": "phonetic",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generates unique, pronounceable names, random and seedable",
   "main": "lib/phonetic.js",
   "homepage": "https://github.com/TomFrost/node-phonetic",
