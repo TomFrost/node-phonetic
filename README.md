@@ -79,5 +79,5 @@ otherwise.
 Phonetic is distributed under the MIT license.  See LICENSE.txt for details.
 
 ## Credits
-Phonetic was created by Tom Frost in 2013 to ease the transition from lurking
+Phonetic was created by Tom Shawver in 2013 to ease the transition from lurking
 to contributing.

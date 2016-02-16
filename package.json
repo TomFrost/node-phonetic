@@ -18,7 +18,7 @@
     "unique",
     "word"
   ],
-  "author": "Tom Frost <tom@frosteddesign.com>",
+  "author": "Tom Shawver <tom@frosteddesign.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/TomFrost/node-phonetic/issues"
